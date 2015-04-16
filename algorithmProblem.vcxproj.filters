@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\DFS_BFS">
+      <UniqueIdentifier>{36234e19-b0ec-49ba-bb1b-9e434ef355da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문자열">
+      <UniqueIdentifier>{673b983d-5e65-46e6-a11b-f7b7ce06ca85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\소수">
+      <UniqueIdentifier>{231d3d49-6b56-4d55-9f3d-b2d840045c79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\연산">
+      <UniqueIdentifier>{aa505622-6dd9-4757-a52b-c5c7c40af1cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2581_소수.cpp">
+      <Filter>소스 파일\소수</Filter>
+    </ClCompile>
+    <ClCompile Include="2153_소수 단어.cpp">
+      <Filter>소스 파일\소수</Filter>
+    </ClCompile>
+    <ClCompile Include="2023_신기한 소수.cpp">
+      <Filter>소스 파일\소수</Filter>
+    </ClCompile>
+    <ClCompile Include="1978_소수 찾기.cpp">
+      <Filter>소스 파일\소수</Filter>
+    </ClCompile>
+    <ClCompile Include="1153_네 개의 소수.cpp">
+      <Filter>소스 파일\소수</Filter>
+    </ClCompile>
+    <ClCompile Include="1929_소수구하기.cpp">
+      <Filter>소스 파일\소수</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="input.txt">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="output.txt">
+      <Filter>소스 파일</Filter>
+    </None>
+  </ItemGroup>
+</Project>
