@@ -45,6 +45,216 @@
     <ClCompile Include="1929_소수구하기.cpp">
       <Filter>소스 파일\소수</Filter>
     </ClCompile>
+    <ClCompile Include="4963_섬의 개수.cpp">
+      <Filter>소스 파일\DFS_BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="7576_토마토.cpp">
+      <Filter>소스 파일\DFS_BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1012_유기농 배추.cpp">
+      <Filter>소스 파일\DFS_BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1182_부분집합의 합.cpp">
+      <Filter>소스 파일\DFS_BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1260_DFS와 BFS.cpp">
+      <Filter>소스 파일\DFS_BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1759_암호만들기.cpp">
+      <Filter>소스 파일\DFS_BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2178_미로탐색.cpp">
+      <Filter>소스 파일\DFS_BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2468_안전 영역.cpp">
+      <Filter>소스 파일\DFS_BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2667_단지번호붙이기.cpp">
+      <Filter>소스 파일\DFS_BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1100_하얀 칸.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1152_단어의 개수.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1157_단어 공부.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1919_애너그램 만들기.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2607_비슷한 단어.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2675_문자열반복.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="3062_수 뒤집기.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="4999_아!.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="5582_공통 부분 문자열.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="7567_그릇.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="9086_문자열.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1032_명령프롬프트.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1002_터렛.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1003_피보나치함수.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1008_A나누기B.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1010_다리놓기.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1026_보물.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1037_약수.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1076_저항.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1085_직사각형에서 탈출.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1110_더하기사이클.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1193_분수찾기.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1292_쉽게 푸는 문제.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1427_소트인사이드.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1546_평균.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1676_팩토리얼.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1713_후보 추천하기.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1735_분수 합.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1748_수 이어 쓰기 1.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1850_최대공약수.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1912_부분합.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1920_수 찾기.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="1951_활자.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2010_플러그.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2460_지능형 기차 2.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2467_용액.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2480_주사위 세개.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2490_윷놀이.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2511_카드놀이.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2525_오븐 시계.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2553_마지막 팩토리얼 수.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2559_수열.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2566_최댓값.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2577_숫자의 개수.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2587_대표값2.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2622_삼각형만들기.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2668_숫자고르기.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2669_직사각형 네개의 합집합의 면적 구하기.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2670_연속부분최대곱.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2751_수 정렬하기 2.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2755_이번학기평점은몇점.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2774_아름다운 수.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2953_나는 요리사다.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2985_세 수.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="3003_킹, 퀸, 룩, 비숍, 나이트, 폰.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="4375_1.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="4504_배수 찾기.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="5354_J박스.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="7894_큰 숫자.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="9498_시험 성적.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="9012_괄호.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="input.txt">
