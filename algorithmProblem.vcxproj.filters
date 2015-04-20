@@ -255,6 +255,18 @@
     <ClCompile Include="9012_괄호.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
+    <ClCompile Include="2304_창고 다각형.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="8320_직사각형을 만드는 방법.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="9734_순환소수.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
+    <ClCompile Include="8979_올림픽.cpp">
+      <Filter>소스 파일\연산</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="input.txt">

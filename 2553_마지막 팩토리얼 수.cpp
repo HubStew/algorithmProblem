@@ -10,7 +10,6 @@ int main()
 	int tempI;
 	for (int i = 2; i <= num; i++)
 	{
-	
 		tempI = i;
 
 		while(tempI % 10 == 0)
@@ -22,12 +21,7 @@ int main()
 			result /= 10;
 
 		result = result % 10000;
-
-		//cout << result << endl;
-		
 	}
-	//while(result % 10 == 0)
-	//	result /= 10;
 
 	cout << result << endl;
 

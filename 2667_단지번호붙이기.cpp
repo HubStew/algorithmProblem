@@ -8,7 +8,6 @@ using namespace std;
 int map[MAX_SIZE][MAX_SIZE];
 
 void DFS(int col, int row, int size);
-void Print(int size);
 
 int dangiNum = 0;
 int countSave[MAX_SIZE * MAX_SIZE];
@@ -26,7 +25,6 @@ int main()
 		for (int j = 1; j <= size; j++)
 		{			
 			map[i][j] = (str[j-1] == '0' ? 0 : 1);
-			//cin >> map[i][j];
 		}
 	}
 
@@ -40,8 +38,6 @@ int main()
 				DFS(i, j, size);
 				countSave[dangiNum] = DFSCount;
 				dangiNum++;
-				//cout << DFSCount << endl;
-				//Print(size);
 			}
 		}	
 	}
@@ -56,17 +52,6 @@ int main()
 	return 0;
 }
 
-void Print(int size)
-{
-	for (int i = 1; i <= size; i++)
-	{
-		for (int j = 1; j <= size; j++)
-		{
-			cout << map[i][j] << " ";
-		}
-		cout << endl;
-	}
-}
 
 void DFS(int col, int row, int size)
 {

@@ -37,21 +37,6 @@ int main()
 					}
 				}
 			}
-			/*else if (ps[i] == ')' && isVPS[i] == 0)
-			{
-				
-				for (int j = i+1; j < ps.length(); j++)
-				{
-					if (ps[j] == '('&& isVPS[j] == 0)
-					{
-						isVPS[i] = 1;
-						isVPS[j] = 1;
-						break;
-					}
-				}
-			}*/
-
-			
 		}
 
 		bool result = true;
